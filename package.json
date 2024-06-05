@@ -1,6 +1,6 @@
 {
   "name": "community-extensions",
-  "version": "0.8.0",
+  "version": "0.8.0-dev",
   "repositoryName": "Paperback Community Extensions (0.8)",
   "description": "Community maintained Paperback extension repository",
   "main": "index.js",
